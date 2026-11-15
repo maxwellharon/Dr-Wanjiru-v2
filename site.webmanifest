@@ -1,0 +1,20 @@
+{
+  "name": "Dr. Wanjiru MD",
+  "short_name": "Wanjiru MD",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF3EE",
+  "theme_color": "#FBF3EE",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
